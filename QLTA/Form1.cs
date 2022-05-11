@@ -15,6 +15,7 @@ namespace QLTA
         public Form1()
         {
             InitializeComponent();
+            // hello 
         }
     }
 }
