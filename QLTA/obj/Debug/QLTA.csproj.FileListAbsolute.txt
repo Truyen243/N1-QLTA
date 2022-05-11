@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.Properties.Resources.resources
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\bin\Debug\QLTA.exe.config
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\bin\Debug\QLTA.exe
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\bin\Debug\QLTA.pdb
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\bin\Debug\MQTTnet.dll
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.csproj.CopyComplete
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.exe
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.pdb
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\obj\Debug\QLTA.Form1.resources
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ASUS\Documents\Học kì 6 Năm 3\Lập trình giao tiếp thiết bị'\Đồ án 40%\QLTA\bin\Debug\M2Mqtt.Net.pdb
